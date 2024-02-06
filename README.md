@@ -2,18 +2,9 @@
 
 <br>
 
-## 경력
-- **2023.01 ~ 2024.04**
-  - **국립한국해양대학교 종합정보시스템 개발**
+안녕하세요. 백엔드 개발자 이원모입니다.
 
-- **2022.08 ~ 2022.12**
-  - **부경대학교 학사행정정보시스템 고도화**
-
-- **2022.02 ~ 2022.05**
-  - **부산가톨릭대학교 학생 맞춤형 포탈시스템 개발**
-  
-- **2020.11 ~ 2022.01**
-  - **부경대학교 통합정보시스템 개발**
+<br>
 
 ## 보유 스택
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
